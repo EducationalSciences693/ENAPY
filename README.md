@@ -1,4 +1,11 @@
 # enapy 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EducationalSciences693/ENAPY/HEAD)
+
+---
+
+# original README
+
 <center>
   
 ![alt text](https://github.com/thiagorfrf1/ENAPY/blob/master/ena.png)
