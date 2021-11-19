@@ -8,4 +8,5 @@
 .local
 .gitconfig
 .ipython
+.Rhistory
 Manifest.toml
