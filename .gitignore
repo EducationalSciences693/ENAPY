@@ -11,3 +11,4 @@
 .Rhistory
 Manifest.toml
 output
+__pycache__
