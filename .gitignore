@@ -9,6 +9,7 @@
 .gitconfig
 .ipython
 .Rhistory
+__pycache__
+.python_history
 Manifest.toml
 output
-__pycache__
