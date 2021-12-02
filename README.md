@@ -4,7 +4,7 @@
 # Getting Started
 Click this button [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/EducationalSciences693/ENAPY/HEAD) to run this project!
 
-You'll find everything you need in `main.ipynb`!
+You'll find everything you need in `examples/ena.ipynb`!
 
 # Files in this Project
 
